@@ -52,8 +52,8 @@ source src/main/resources/schema-and-data.sql
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/WSS_CHATBOT
 spring.datasource.username=root
-spring.datasource.password=__Sahil@@2005__
-gemini.api.key=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
+spring.datasource.password=
+gemini.api.key=
 gemini.api.url=https://api.groq.com/openai/v1/chat/completions
 ```
 
